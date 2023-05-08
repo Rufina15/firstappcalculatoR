@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                     no2-no1
                 }
 
-                Toast.makeText(this, "The Diffrence is $sub",Toast.LENGTH_LONG).show();
+                Toast.makeText(this, "The Diffrenc is $sub",Toast.LENGTH_LONG).show();
 
             }else{
                 Toast.makeText(this, "Please Fill all the Required Blanks.",Toast.LENGTH_LONG).show();
